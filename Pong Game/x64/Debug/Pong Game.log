@@ -1,19 +1,21 @@
 ﻿  main.cpp
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\Base.h(22,10): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\Base.h(25,10): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\Base.h(59,8): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\Base.h(62,8): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\Bar.h(25,10): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\Bar.h(31,10): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\Bar.h(23,25): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\SecondBar.h(22,8): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\Ball.h(18,8): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\Ball.h(19,8): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\GameManeger.h(45,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\GameManeger.h(75,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\GameManeger.h(86,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\GameManeger.h(104,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\GameManeger.h(209,4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Users\Jorge Torres\source\repos\Pong Game\Pong Game\GameManeger.h(221,4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\Base.h(22,10): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\Base.h(25,10): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\Base.h(59,8): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\Base.h(62,8): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\Bar.h(25,10): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\Bar.h(31,10): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\Bar.h(23,25): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\SecondBar.h(22,8): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\Ball.h(18,8): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\Ball.h(19,8): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\GameManeger.h(45,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\GameManeger.h(75,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\GameManeger.h(86,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\GameManeger.h(104,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\GameManeger.h(209,4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Jorge Torres\source\repos\PongGame\Pong Game\GameManeger.h(221,4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
   main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
-  Pong Game.vcxproj -> C:\Users\Jorge Torres\source\repos\Pong Game\x64\Debug\Pong Game.exe
+  Pong Game.vcxproj -> C:\Users\Jorge Torres\source\repos\PongGame\x64\Debug\Pong Game.exe
